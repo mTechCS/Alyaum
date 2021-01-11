@@ -1,0 +1,1231 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* Ntech_employee_voucher_odoo10
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 11:11+0000\n"
+"PO-Revision-Date: 2018-07-30 11:11+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> E-0 - 2 Years :</b>"
+msgstr "<b> ٠ - ٢ السنوات :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> E-2 - 5 Years :</b>"
+msgstr "<b> ٥ - ٢ السنوات :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> E-Above 5 Years :</b>"
+msgstr "<b> ٥ أكثر السنوات :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> E-EOS Years :</b>"
+msgstr "مدة نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> E-Leave Reason :</b>"
+msgstr "سبب ترك :"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> E-Total :</b>"
+msgstr "المجموع"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> E-Total EOS Amount :</b>"
+msgstr "محموع البلغ عن نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> Pay Amount :</b>"
+msgstr "دفع مبلغ :"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> Q-0 - 2 Years :</b>"
+msgstr "<b> ٠ - ٢ السنوات :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> Q-2 - 5 Years :</b>"
+msgstr "<b> ٥ - ٢ السنوات :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> Q-5 - 10 Years :</b>"
+msgstr "<b> Q-5 - 10 Years :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> Q-Above 5 Years :</b>"
+msgstr "<b> ٥ أكثر السنوات :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> Q-EOS Years :</b>"
+msgstr "مدة نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> Q-Leave Reason :</b>"
+msgstr "سبب ترك :"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> Q-Total :</b>"
+msgstr "المجموع"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> Q-Total EOS Amount :</b>"
+msgstr "محموع البلغ عن نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> T-0 - 2 Years :</b>"
+msgstr "<b> ٠ - ٢ السنوات :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> T-2 - 5 Years :</b>"
+msgstr "<b> ٥ - ٢ السنوات :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> T-Above 5 Years :</b>"
+msgstr "<b> ٥ أكثر السنوات :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> T-EOS Years :</b>"
+msgstr "مدة نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> T-Leave Reason :</b>"
+msgstr "سبب ترك"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> T-Total :</b>"
+msgstr "المجموع"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b> T-Total EOS Amount :</b>"
+msgstr "محموع البلغ عن نهاية الخدمة :"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Deduct 1 </u></b><br/><br/>\n"
+"                                        <b> Amount : </b>"
+msgstr "<b><u> خصم 1 </u></b><br/><br/>\n"
+"                                        <b> المبلغ : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Deduct 2 </u></b><br/><br/>\n"
+"                                        <b> Amount : </b>"
+msgstr "<b><u> خصم 2 </u></b><br/><br/>\n"
+"                                        <b> المبلغ : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Deduct 3 </u></b><br/><br/>\n"
+"                                        <b> Amount : </b>"
+msgstr "<b><u> خصم 3 </u></b><br/><br/>\n"
+"                                        <b> المبلغ : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Deduct 4 </u></b><br/><br/>\n"
+"                                         <b> Amount : </b>"
+msgstr "<b><u> 4 خصم </u></b><br/><br/>\n"
+"                                         <b> المبلغ : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> End of Service </u></b><br/><br/>\n"
+"                                            <b> Whole Working Days :</b>"
+msgstr "<b><u> نهاية الخدمة </u></b><br/><br/>\n"
+"                                            <b> عدد الأيام الكلي :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> End of Service Details </u></b><br/><br/>\n"
+"                                            <b> Job Leaving Reason :</b>"
+msgstr "<b><u> تفاصيل تهاية الخدمة : </u></b><br/><br/>\n"
+"                                            <b> سبب ترك العمل :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Exit Entry </u></b><br/><br/>\n"
+"                                        <b> Issue Exit Entry : </b>"
+msgstr "<b><u> الخروج والعودة </u></b><br/><br/>\n"
+"                                        <b> اصدار خروج وعودة : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Legal Leave </u></b><br/><br/>\n"
+"                                        <b> Leave : </b>"
+msgstr "<b><u> الاجازة السنوية </u></b><br/><br/>\n"
+"                                        <b> اجازة : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Other 1 </u></b><br/><br/>\n"
+"                                        <b> Amount : </b>"
+msgstr "<b><u> أخرى 1 </u></b><br/><br/>\n"
+"                                        <b> المبلغ : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Other 2 </u></b><br/><br/>\n"
+"                                        <b> Amount : </b>"
+msgstr "<b><u> أخرى 2 </u></b><br/><br/>\n"
+"                                        <b> المبلغ : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Other 3 </u></b><br/><br/>\n"
+"                                        <b> Amount : </b>"
+msgstr "<b><u> أخرى 3 </u></b><br/><br/>\n"
+"                                        <b> المبلغ : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Other 4 </u></b><br/><br/>\n"
+"                                        <b> Amount : </b>"
+msgstr "<b><u> أخرى 4 </u></b><br/><br/>\n"
+"                                        <b> المبلغ : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b><u> Ticket </u></b><br/><br/>\n"
+"                                        <b> Issue Tickets : </b>"
+msgstr "<b><u> التذاكر </u></b><br/><br/>\n"
+"                                        <b> اصدار التذاكر : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b>Employee : </b>"
+msgstr "<b>الموظف : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<b>Journal : </b>"
+msgstr "<b>اليومية : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                            <b> Actual Working Days :</b>"
+msgstr "<br/>\n"
+"                                            <b> عدد الايام الفعلي :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                         <b> Reason :  </b>"
+msgstr "<br/>\n"
+"                                         <b> السبب :  </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                        <b> Issue Exit Entry Amount :</b>"
+msgstr "<br/>\n"
+"                                        <b> مبلغ اصدار الخروج والعودة :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                        <b> Issue Tickets Amount :</b>"
+msgstr "<br/>\n"
+"                                        <b> مبلغ التذاكر المصدرة :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                        <b> No. of Legal Leaves Days :</b>"
+msgstr "<br/>\n"
+"                                        <b> عدد ايام الاجازة السنوية :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                        <b> Reason :  </b>"
+msgstr "<br/>\n"
+"                                        <b> السبب :  </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                        <b> Remaining Legal Leaves :</b>"
+msgstr "<br/>\n"
+"                                        <b> رصيد الاجازة السنوية المتبقي :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                        <b> Salary Per Day :</b>"
+msgstr "<br/>\n"
+"                                        <b> لراتب اليومي :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                        <b> Salary of Legal Leaves Days :</b>"
+msgstr "<br/>\n"
+"                                        <b> المبلغ المستحق عن الاجازة :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                    <b>Balance Loan : </b>"
+msgstr "<br/>\n"
+"                                    <b>المبلغ المتبقي للسلف : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/>\n"
+"                                    <b>Date : </b>"
+msgstr "<br/>\n"
+"                                    <b>التاريخ : </b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/> \n"
+"                                            <b> Paid EOS Amount :</b>"
+msgstr "<br/> \n"
+"                                            <b> المبلغ المدفوع عن نهاية الخدمة :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<br/> \n"
+"                                            <b> Total Unpaid Leaves :</b>"
+msgstr "<br/> \n"
+"                                            <b> عدد ايام الاجازات غير المدفوعة :</b>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "<u>Employee Voucher</u>"
+msgstr "<u>أمرالصرف للموظف</u>"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model,name:Ntech_employee_voucher_odoo10.model_account_move
+msgid "Account Entry"
+msgstr "قيد الحساب"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Account Move"
+msgstr "قيد يومية"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_actual_working
+msgid "Actual Working Days"
+msgstr "عدد الايام الفعلي"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_allocated_exit_entry
+msgid "Allowed Exit Entry"
+msgstr "عدد الخروج والعودة المستحق"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_allocated_amount_exit_entry
+msgid "Allowed Exit Entry Amount"
+msgstr "مبلغ الخروج والعودة المستحق"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_allocated_tickets
+msgid "Allowed Tickets"
+msgstr "عدد التذاكر المستحقة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_allocated_amount_tickets
+msgid "Allowed Tickets Amount"
+msgstr "مبلغ التذاكر المستحق"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct1_amount
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct2_amount
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct3_amount
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct4_amount
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other2_amount
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other3_amount
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other4_amount
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other_amount
+msgid "Amount"
+msgstr "المبلغ"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_balance_laon
+msgid "Balance Loan Amount"
+msgstr "المبلغ المتبقي للسلف"
+
+#. module: Ntech_employee_voucher_odoo10
+#: selection:employee.voucher,state:0
+msgid "Cancel"
+msgstr "إلغاء"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_company_id
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_company_id
+msgid "Company"
+msgstr "الشركة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Completed Period Details"
+msgstr "تفاصيل كامل فترة العمل"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_line_form
+msgid "Configuration"
+msgstr "الاعدادات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Confirm"
+msgstr "تاكيد"
+
+#. module: Ntech_employee_voucher_odoo10
+#: selection:employee.voucher,state:0
+msgid "Confirmation"
+msgstr "تأكيد"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_context_1
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_context_2
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_context_3
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_context_4
+msgid "Context"
+msgstr "سياق"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model,name:Ntech_employee_voucher_odoo10.model_hr_contract
+msgid "Contract"
+msgstr "العقد"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_period_day
+msgid "Contract Days"
+msgstr "Contract Days"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_period_month
+msgid "Contract Month"
+msgstr "Contract Month"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_hr_contract_end_less_date
+msgid "Contract Renewed Date"
+msgstr "Contract Renewed Date"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_period_year
+msgid "Contract Year"
+msgstr "Contract Year"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_create_uid
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_create_uid
+msgid "Created by"
+msgstr "أنشئ بواسطة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_create_date
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_create_date
+msgid "Created on"
+msgstr "أنشئ في"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_credit_account_id
+msgid "Credit Account"
+msgstr "حساب داىن"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,help:Ntech_employee_voucher_odoo10.field_employee_voucher_line_credit_account_id
+msgid "Credit account for journal entry"
+msgstr "حساب الدائن لقيد اليومية"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_date
+msgid "Date"
+msgstr "التاريخ"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_search_view
+msgid "Day"
+msgstr "اليوم"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Day"
+msgstr "يوم"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_debit_account_id
+msgid "Debit Account"
+msgstr "حساب مدىن"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,help:Ntech_employee_voucher_odoo10.field_employee_voucher_line_debit_account_id
+msgid "Debit account for journal entry"
+msgstr "حساب المدين لقيد اليومية"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct1
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a5
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Deduct 1"
+msgstr "خصم 1"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct2
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a6
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Deduct 2"
+msgstr "خصم 2"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct3
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a7
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Deduct 3"
+msgstr "خصم 3"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct4
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a8
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Deduct 4"
+msgstr "خصم 4"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct1_desp
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct2_desp
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct3_desp
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_deduct4_desp
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other2_desp
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other3_desp
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other4_desp
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other_desp
+msgid "Description"
+msgstr "الوصف"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_display_name
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_display_name
+msgid "Display Name"
+msgstr "اسم العرض"
+
+#. module: Ntech_employee_voucher_odoo10
+#: selection:employee.voucher,state:0
+msgid "Done"
+msgstr "تم"
+
+#. module: Ntech_employee_voucher_odoo10
+#: selection:employee.voucher,state:0
+msgid "Draft"
+msgstr "مسودة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_search_view
+msgid "Draft Status"
+msgstr "Draft Status"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_first_end
+msgid "E- 0 - 2 Years"
+msgstr "٠ - ٢ السنوات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_second_end
+msgid "E- 2 - 5 Years"
+msgstr "٥ - ٢ السنوات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_third_end
+msgid "E- Above 5 Years"
+msgstr "٥ أكثر السنوات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_end_years
+msgid "E- EOS Years"
+msgstr "مدة نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_end_leave_reason
+msgid "E- Leave Reason"
+msgstr "سبب ترك"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_total_end
+msgid "E- Total"
+msgstr "المجموع"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_e_remain_eos_amount
+msgid "E-Remaining EOS Amount"
+msgstr "E-Remaining EOS Amount"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_e_total_eos_amount
+msgid "E-Total EOS Amount"
+msgstr "محموع البلغ عن نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_employee_id
+msgid "Employee"
+msgstr "الموظف"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_search_view
+msgid "Employee Name"
+msgstr "Employee Name"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.menu,name:Ntech_employee_voucher_odoo10.employee_voucher_line_type_menu
+msgid "Employee Select Voucher Type"
+msgstr "اختيار نوع أمرالصرف للموظف"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.actions.act_window,name:Ntech_employee_voucher_odoo10.action_employee_voucher_line_tree_view
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_line_form
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_line_tree
+msgid "Employee Select Voucher Types"
+msgstr "اختيار نوع أمرالصرف للموظف"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.actions.act_window,name:Ntech_employee_voucher_odoo10.action_employee_voucher_tree_view
+#: model:ir.actions.report.xml,name:Ntech_employee_voucher_odoo10.report_employee_voucher_print
+#: model:ir.ui.menu,name:Ntech_employee_voucher_odoo10.employee_voucher_menu
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_tree_view
+msgid "Employee Voucher"
+msgstr "أمرالصرف للموظف"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method1
+msgid "Employee Voucher Type1"
+msgstr "Employee Voucher Type1"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method10
+msgid "Employee Voucher Type10"
+msgstr "Employee Voucher Type10"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method11
+msgid "Employee Voucher Type11"
+msgstr "Employee Voucher Type11"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method12
+msgid "Employee Voucher Type12"
+msgstr "Employee Voucher Type12"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method2
+msgid "Employee Voucher Type2"
+msgstr "Employee Voucher Type2"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method3
+msgid "Employee Voucher Type3"
+msgstr "Employee Voucher Type3"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method4
+msgid "Employee Voucher Type4"
+msgstr "Employee Voucher Type4"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method5
+msgid "Employee Voucher Type5"
+msgstr "Employee Voucher Type5"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method6
+msgid "Employee Voucher Type6"
+msgstr "Employee Voucher Type6"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method7
+msgid "Employee Voucher Type7"
+msgstr "Employee Voucher Type7"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method8
+msgid "Employee Voucher Type8"
+msgstr "Employee Voucher Type8"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_voucher_method9
+msgid "Employee Voucher Type9"
+msgstr "Employee Voucher Type9"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1162
+#, python-format
+msgid "Employee Voucher for "
+msgstr "Employee Voucher for "
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_end_date
+msgid "End Date"
+msgstr "تاريخ النهاية"
+
+#. module: Ntech_employee_voucher_odoo10
+#: selection:employee.voucher,leave_reason:0
+msgid "End of Contract"
+msgstr "نهاية العقد"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a3
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "End of Service"
+msgstr "نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "End of Service Details"
+msgstr "تفاصيل تهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_end_service
+msgid "End of service"
+msgstr "نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Exit / Re-Entry"
+msgstr "الخروج والعودة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_exit_entry
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a4
+msgid "Exit Entry"
+msgstr "الخروج والعودة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_grand_total
+msgid "GRAND TOTAL"
+msgstr "المجموع"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.report_employee_voucher
+msgid "GRAND TOTAL :"
+msgstr "المجموع :"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Get Pay"
+msgstr "قم بالدفع"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_search_view
+msgid "Group By..."
+msgstr "تجميع حسب ..."
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_id
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_id
+msgid "ID"
+msgstr "المعرف"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_ignore_loan
+msgid "Ignore Loan"
+msgstr "تجاهل القرض"
+
+#. module: Ntech_employee_voucher_odoo10
+#: selection:employee.voucher,select_leave:0
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_import_leave
+msgid "Import Leave"
+msgstr "اختر الاجازة مدرجة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_import_legal
+msgid "Import Legal Leaves"
+msgstr "استيراد الاجازة السنوية"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_record_exit
+msgid "In Progress"
+msgstr "In Progress"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:432
+#, python-format
+msgid "Inverse: Employee Voucher for "
+msgstr "Inverse: Employee Voucher for "
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_issue_exit_entry
+msgid "Issue Exit Entry"
+msgstr "اصدار خروج وعودة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_issue_amount_exit_entry
+msgid "Issue Exit Entry Amount"
+msgstr "مبلغ اصدار الخروج والعودة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_issue_tickets
+msgid "Issue Tickets"
+msgstr "اصدار خروج وعودة :"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_issue_amount_tickets
+msgid "Issue Tickets Amount"
+msgstr "مبلغ التذاكر المصدرة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_leave_reason
+msgid "Job Leaving Reason"
+msgstr "سبب ترك العمل"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_journal_id
+msgid "Journal"
+msgstr "اليومية"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.actions.act_window,name:Ntech_employee_voucher_odoo10.act_employee_voucher_2_account_move
+msgid "Journal Entries"
+msgstr "قيود اليومية"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_move_id
+msgid "Journal Entry"
+msgstr "قيد يومية"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,help:Ntech_employee_voucher_odoo10.field_employee_voucher_move_id
+msgid "Journal Entry for Employee voucher"
+msgstr "Journal Entry for Employee voucher"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher___last_update
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line___last_update
+msgid "Last Modified on"
+msgstr "آخر تعديل في"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_write_uid
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_write_uid
+msgid "Last Updated by"
+msgstr "آخر تحديث بواسطة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_write_date
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_write_date
+msgid "Last Updated on"
+msgstr "آخر تحديث في"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model,name:Ntech_employee_voucher_odoo10.model_hr_holidays
+msgid "Leave"
+msgstr "اجازة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_legal_leave
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a1
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Legal Leave"
+msgstr "الاجازة السنوية"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Month"
+msgstr "شهر"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_name
+msgid "Name"
+msgstr "الاسم"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1358
+#, python-format
+msgid "No Sufficent Exit Entry Balance for this Employee"
+msgstr "No Sufficent Exit Entry Balance for this Employee"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1239
+#, python-format
+msgid "No Sufficent Ticket Balance for this Employee"
+msgstr "No Sufficent Ticket Balance for this Employee"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_no_days
+msgid "No. of Legal Leaves Days"
+msgstr "عدد ايام الاجازة السنوية"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a9
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Other 1"
+msgstr "أخرى 1"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other2
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Other 2"
+msgstr "أخرى 2"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a11
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other3
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Other 3"
+msgstr "أخرى 3"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a12
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_other4
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Other 4"
+msgstr "أخرى 4"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_paid_eos_amount
+msgid "Paid EOS Amount"
+msgstr "المبلغ المدفوع عن نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:298
+#, python-format
+msgid "Paid Legalleaves"
+msgstr "Paid Legalleaves"
+
+#. module: Ntech_employee_voucher_odoo10
+#: selection:employee.voucher,select_leave:0
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_paid_vacation
+msgid "Paid Vacation"
+msgstr "دفع بدل اجازة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_paid_amount
+msgid "Pay Amount"
+msgstr "دفع مبلغ"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:345
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:348
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:351
+#, python-format
+msgid "Paying Amount is More than Remaining Balance Amount"
+msgstr "Paying Amount is More than Remaining Balance Amount"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_account_move_payment_id
+msgid "Payment voucher"
+msgstr "Payment voucher"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_account_analytic_true
+msgid "Pick Analytic Account from Employee screen"
+msgstr "اختر الحساب التحليلي من بيانات الموظف"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_first_quit
+msgid "Q- 0 - 2 Years"
+msgstr "٠ - ٢ السنوات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_second_quit
+msgid "Q- 2 - 5 Years"
+msgstr "٥ - ٢ السنوات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_third_quit
+msgid "Q- 5 - 10 Years"
+msgstr "١٠ - ٥ السنوات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_fourth_quit
+msgid "Q- Above 10 Years"
+msgstr "١٠ أكثر السنوات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_quit_years
+msgid "Q- EOS Years"
+msgstr "مدة نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_quit_leave_reason
+msgid "Q- Leave Reason"
+msgstr "سبب ترك"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_total_quit
+msgid "Q- Total"
+msgstr "المجموع"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_q_remain_eos_amount
+msgid "Q-Remaining EOS Amount"
+msgstr "Q-Remaining EOS Amount"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_q_total_eos_amount
+msgid "Q-Total EOS Amount"
+msgstr "محموع البلغ عن نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: selection:employee.voucher,leave_reason:0
+msgid "Quit"
+msgstr "استقالة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,help:Ntech_employee_voucher_odoo10.field_employee_voucher_leave_reason
+msgid "Reason of Employee job leaving"
+msgstr "Reason of Employee job leaving"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Refuse"
+msgstr "ارجاع"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_hr_contract_exit_entry_balance
+msgid "Remaining Balance Exit Entry"
+msgstr "Remaining Balance Exit Entry"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_hr_contract_ticket_balance
+msgid "Remaining Balance Tickets"
+msgstr "Remaining Balance Tickets"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_remaining_leaves
+msgid "Remaining Legal Leaves"
+msgstr "رصيد الاجازة السنوية المتبقي"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_per_day_salary
+msgid "Salary Per Day"
+msgstr "الراتب اليومي"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_salary_legal
+msgid "Salary of Legal Leaves Days"
+msgstr "المبلغ المستحق عن الاجازة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_search_view
+msgid "Search"
+msgstr "بحث"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_select_leave
+msgid "Select Leave"
+msgstr "اختر الاجازة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Select Voucher Type"
+msgstr "Select Voucher Type"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:323
+#, python-format
+msgid "Selected Legal Leave has been selected by Another Entry, Now you cannot select it again, Legal Leave. must be UNIQUE!"
+msgstr "Selected Legal Leave has been selected by Another Entry, Now you cannot select it again, Legal Leave. must be UNIQUE!"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Set to Draft"
+msgstr "ارجاع الى مسودة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_start_date
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_state
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_search_view
+msgid "Status"
+msgstr "الحاله "
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_first_term
+msgid "T- 0 - 2 Years"
+msgstr "٠ - ٢ السنوات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_second_term
+msgid "T- 2 - 5 Years"
+msgstr "٥ - ٢ السنوات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_third_term
+msgid "T- Above 5 Years"
+msgstr "٥ أكثر السنوات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_term_years
+msgid "T- EOS Years"
+msgstr "مدة نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_term_leave_reason
+msgid "T- Leave Reason"
+msgstr "سبب ترك"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_total_term
+msgid "T- Total"
+msgstr "المجموع"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_t_remain_eos_amount
+msgid "T-Remaining EOS Amount"
+msgstr "T-Remaining EOS Amount"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_t_total_eos_amount
+msgid "T-Total EOS Amount"
+msgstr "محموع البلغ عن نهاية الخدمة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: selection:employee.voucher,leave_reason:0
+msgid "Termination"
+msgstr "إنهاء خدمات"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:290
+#, python-format
+msgid "The feature behind the field 'Remaining Legal Leaves' can only be used when there is only one leave type with the option 'Allow to Override Limit' unchecked. (%s Found). Otherwise, the update is ambiguous as we cannot decide on which leave type the update has to be done. \n"
+" You may prefer to use the classic menus 'Leave Requests' and 'Allocation Requests' located in Leaves Application to manage the leave days of the employees if the configuration does not allow to use this field."
+msgstr "The feature behind the field 'Remaining Legal Leaves' can only be used when there is only one leave type with the option 'Allow to Override Limit' unchecked. (%s Found). Otherwise, the update is ambiguous as we cannot decide on which leave type the update has to be done. \n"
+" You may prefer to use the classic menus 'Leave Requests' and 'Allocation Requests' located in Leaves Application to manage the leave days of the employees if the configuration does not allow to use this field."
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:res.groups,comment:Ntech_employee_voucher_odoo10.group_voucher_refuse_access
+msgid "The user will be able to Refuse the Employee Voucher"
+msgstr "The user will be able to Refuse the Employee Voucher"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1155
+#, python-format
+msgid "This Employee has Balance Loan Amount, You cannot confirm this Voucher"
+msgstr "This Employee has Balance Loan Amount, You cannot confirm this Voucher"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_ticket_leave
+msgid "Ticket"
+msgstr "التذاكر"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Ticket Details"
+msgstr "تفاصيل التذاكر"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_line_a2
+msgid "Tickets"
+msgstr "التذاكر"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_total_unpaid
+msgid "Total Unpaid Leaves"
+msgstr "عدد ايام الاجازات غير المدفوعة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_hr_holidays_voucher_ref
+msgid "Voucher Reference"
+msgstr "Voucher Reference"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:res.groups,name:Ntech_employee_voucher_odoo10.group_voucher_refuse_access
+msgid "Voucher Refuse Access"
+msgstr "Voucher Refuse Access"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,help:Ntech_employee_voucher_odoo10.field_employee_voucher_line_name
+msgid "Voucher name"
+msgstr "Voucher name"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model.fields,field_description:Ntech_employee_voucher_odoo10.field_employee_voucher_whole_working
+msgid "Whole Working Days"
+msgstr "عدد الأيام الكلي"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.ui.view,arch_db:Ntech_employee_voucher_odoo10.employee_voucher_form_view
+msgid "Year"
+msgstr "سنة"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:413
+#, python-format
+msgid "You Cant Delete Employee Voucher that have Journal Entries."
+msgstr "You Cant Delete Employee Voucher that have Journal Entries."
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1898
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1932
+#, python-format
+msgid "You are Allow to take upto \"%s\" Exit Re-Entry"
+msgstr "You are Allow to take upto \"%s\" Exit Re-Entry"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1887
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1913
+#, python-format
+msgid "You are Allow to take upto \"%s\" Tickets"
+msgstr "You are Allow to take upto \"%s\" Tickets"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:572
+#, python-format
+msgid "You cannot refuse paid EOS Employee voucher"
+msgstr "You cannot refuse paid EOS Employee voucher"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1895
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1930
+#, python-format
+msgid "You dont have Exit Entry Balance"
+msgstr "You dont have Exit Entry Balance"
+
+#. module: Ntech_employee_voucher_odoo10
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1884
+#: code:addons/Ntech_employee_voucher_odoo10/models/hr_employee_voucher.py:1911
+#, python-format
+msgid "You dont have Ticket Balance"
+msgstr "You dont have Ticket Balance"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model,name:Ntech_employee_voucher_odoo10.model_employee_voucher
+msgid "employee.voucher"
+msgstr "employee.voucher"
+
+#. module: Ntech_employee_voucher_odoo10
+#: model:ir.model,name:Ntech_employee_voucher_odoo10.model_employee_voucher_line
+msgid "employee.voucher.line"
+msgstr "employee.voucher.line"
+
